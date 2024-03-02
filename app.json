@@ -18,11 +18,17 @@
     "ios": {
       "supportsTablet": true
     },
+    
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
+    },
+    "extra":{
+        "constants":{
+          "STORE_VALIDATE_SERVER_URL":"http://localhost:3873/shop/auth"
+        }
     },
     "web": {
       "bundler": "metro",

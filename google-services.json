@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "253468709820",
+      "firebase_url": "https://cay-app-default-rtdb.europe-west1.firebasedatabase.app",
+      "project_id": "cay-app",
+      "storage_bucket": "cay-app.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:253468709820:android:bb4b1d035eca3cc7b591b9",
+          "android_client_info": {
+            "package_name": "com.cayapp.expo"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDc91TR_8wG8lQvzcRAlLF-Xt1UUVLp58o"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
